@@ -49,17 +49,42 @@ GIF
 
 #### Part 3: Creating a title slide.
 
-2.  Look for row number 5, which should be empty. This is where we'll create an introductory slide. Fill out the cells that correspond to the columns in row 5 as follows:
+1.  Look for row number 5, which should be empty. This is where we'll create an introductory slide. Fill out the cells that correspond to the columns in row 5 as follows:
 
 * **Year, Month, Day,	Time,	End Year,	End Month, End Day,	End Time,	Display Date:** *Leave all of these blank.*
 * **Headline:** The Life of Kendrick Lamar
-* **Text:** The winner of 12 Grammy awards, rapper Kendrick Lamar has transformed from a straight-A student in Compton, California into one of the world's most celebrated musicians.  
+* **Text:** The winner of 12 Grammy awards, rapper Kendrick Lamar was once a straight-A student in Compton, California. He has evolved into one of the world's most celebrated musicians.  
 * **Media:** https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kendrick_Lamar_3_F.I.B._2016.jpg/1024px-Kendrick_Lamar_3_F.I.B._2016.jpg
 * **Media Credit:** 	Batiste Safont/Wikimedia Commons
 * **Media Caption, Media Thumbnail:** *Leave these blank*
 * **Type:** title
 * **Group, Background:** *Leave these blank*
 
+#### Part 4: Creating two timeline entries.
+
+Now that we have a title slide, let's add some notable dates from Kendrick Lamar's life.
+
+1.  Look for row number 6, which should be empty. This is where we'll create a slide for the day Kendrick Lamar was born. Fill out the cells that correspond to the columns in row 6 as follows:  
+
+born June 17, 1987)
+
+* **Year:** 1987
+* **Month:** 6
+* **Day:**	17
+* **Time:** *Leave this blank*
+* **End Year:** 1987
+* **End Month:** 6
+* **End Day:**	17
+* **End Time:** *Leave this blank*
+*	**Display Date:** *Leave this blank*
+* **Headline:** Born in Compton, California
+* **Text:** Kendrick Lamar was born on June 17, 1987 in Compton, California and raised there, according to Biography.com. The cover of his major label debut album -- "good kid, m.A.A.d city" -- shows Lamar as a young child.     
+* **Media:** https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg
+* **Media Credit:** 	album cover/Wikimedia Commons
+* **Media Caption, Media Thumbnail:** *Leave these blank*
+* **Type:** *Leave this blank*
+* **Group, Background:** *Leave these blank*
 
 
+BIRTH SLIDE -- good kid maad city pic
 That photo says so much about my life, and about how I was raised in Compton, and the things I've seen, just through them innocent eyes. You don't see nobody else's eyes, but you see my eyes are innocent, and tryna figure out what is goin' on."  
