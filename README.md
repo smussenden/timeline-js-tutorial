@@ -28,8 +28,6 @@ Timelines are great ways to tell stories that unfold over, well, time, with sign
 
 You may find it helpful to understand how to work with a spreadsheet in Google Sheets. But even if you don't, I believe that you will figure it out.
 
-https://vimeo.com/143407878
-
 ### The tutorial
 
 #### Part 1: Getting Started
@@ -38,16 +36,22 @@ https://vimeo.com/143407878
 
 2. Click the blue "Get the Spreadsheet Template" button.  
 
+![1-1](img/1-1.gif)
+
 3. A new window will open. Log into your Google Account.
 
 4. Click the blue button that says "make a copy".
+
+![1-2](img/1-2.gif)
+
 
 #### Part 2: Editing the Spreadsheet
 
 All of the information for our timeline will be stored in this spreadsheet, which is organized into rows (the horizontal lines) and columns (the vertical lines), and each bit of information is stored in a box, also known as a "cell". Each row represents one "slide" or "date" on our timeline.
 
 1.  Change the name of the sheet by clicking the words "Copy of Official TimelineJS3 Template" in the upper right corner.  Then type "The Life of Kendrick Lamar".
-GIF
+
+![2-1](img/2-1.gif)
 
 2.  Take a look at the first row.  Each "cell" in this row contains the name of the column.  Each column contains one type of information -- dates, title text, link to a picture, et cetera. **IMPORTANT: NEVER change the names of these columns. If you do, your timeline won't work!**.
 
@@ -65,6 +69,9 @@ GIF
 * **Media Caption, Media Thumbnail:** *Leave these blank*
 * **Type:** title
 * **Group, Background:** *Leave these blank*
+
+![3-1](img/3-1.gif)
+
 
 #### Part 4: Creating first timeline entry for Kendrick's birth.
 
@@ -89,6 +96,9 @@ Now that we have a title slide, let's add some notable dates from Kendrick Lamar
 * **Type:** *Leave this blank*
 * **Group, Background:** *Leave these blank*
 
+![4-1](img/4-1.gif)
+
+
 #### Part 5: Creating second timeline entry for Kendrick's birth.
 
 1. Look for row number 7, which should be empty. This is where we'll create a slide for the release of Kendrick Lamar's first full-length mixtape. Fill out the cells that correspond to the columns in row 7 as follows:  
@@ -110,6 +120,8 @@ Now that we have a title slide, let's add some notable dates from Kendrick Lamar
 * **Type:** *Leave this blank*
 * **Group, Background:** *Leave these blank*
 
+![5-1](img/5-1.gif)
+
 #### Part 6: Delete un-needed example rows.
 
 Now that we have our new entries, delete the un-needed example rows.  
@@ -117,6 +129,9 @@ Now that we have our new entries, delete the un-needed example rows.
 1. Click the row number box for row 2 on the far left side of the screen to highlight the entire row.
 2. Hold down control and right-clicking on the mouse while hovering over the row to bring up the drop-down menu.
 3. Select "delete row" from the drop-down menu.
+
+![6-1](img/6-1.gif)
+
 4. Repeat for the next two rows.  
 
 #### Part 7: Look at our timeline so-far.
@@ -127,6 +142,8 @@ Let's see what our timeline looks like so far.
 2.  From the drop-down menu, select "Publish to the web".
 3.  Click the blue "Publish" button.
 
+![7-1](img/7-1.gif)
+
 4.  Copy the Google Sheets URL.
 5.  Go back to the [Timeline.knightlab.com](https://timeline.knightlab.com/) page.
 6.  Scroll down to Step 3, "Generate your timeline"
@@ -135,6 +152,9 @@ Let's see what our timeline looks like so far.
 9.  Copy the first link in the "Share Link" box.
 10. Open a new browser window and paste in your link.
 11. There's your timeline!
+
+![7-2](img/7-1.gif)
+
 
 #### Part 8: Think of more entries to add.
 
