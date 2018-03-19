@@ -6,11 +6,17 @@ We're going to build an interactive timeline using the excellent [Timeline.js (w
 
 Major news organizations like [CNN  (example)](https://www.cnn.com/2016/04/20/asia/north-korea-restaurant-defectors/index.html) and [TIME (example)](http://world.time.com/2013/12/05/nelson-mandelas-extraordinary-life-an-interactive-timeline/) use Timeline.js to tell stories that combine text, tweets, photo and video.  And by the end of this, you will be able to use it to!
 
-In this tutorial, you'll learn to use Timeline.js to build a simple timeline of the life of rapper Kendrick Lamar.  Here it is:   
+In this tutorial, you'll learn to use Timeline.js to build a simple timeline of the life of rapper Kendrick Lamar.  Here it is:
+
+[![Kendrick Timeline](img/timeline.gif)](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11ncFFaq8TVdP6zWTifV06XsPAqz5T_TWWVZEP8pg8MM&font=Default&lang=en&initial_zoom=2&height=650)
 
 ### Why am I doing this?
 
-Timelines are great ways to tell stories that unfold over, well, time, with significant events at key points along the way. A Timeline.js is a pretty simple way to build one.    
+Timelines are great ways to tell stories that unfold over, well, time, with significant events at key points along the way. A Timeline.js is a pretty simple way to build one.
+
+
+**Exercise:** Break up into groups of four, and come up with three ideas for stories you could tell using this timeline format?
+
 
 ### What will I need?
 
@@ -60,13 +66,11 @@ GIF
 * **Type:** title
 * **Group, Background:** *Leave these blank*
 
-#### Part 4: Creating two timeline entries.
+#### Part 4: Creating first timeline entry for Kendrick's birth.
 
 Now that we have a title slide, let's add some notable dates from Kendrick Lamar's life.
 
 1.  Look for row number 6, which should be empty. This is where we'll create a slide for the day Kendrick Lamar was born. Fill out the cells that correspond to the columns in row 6 as follows:  
-
-born June 17, 1987)
 
 * **Year:** 1987
 * **Month:** 6
@@ -78,13 +82,80 @@ born June 17, 1987)
 * **End Time:** *Leave this blank*
 *	**Display Date:** *Leave this blank*
 * **Headline:** Born in Compton, California
-* **Text:** Kendrick Lamar was born on June 17, 1987 in Compton, California and raised there, according to Biography.com. The cover of his major label debut album -- "good kid, m.A.A.d city" -- shows Lamar as a young child.     
+* **Text:** Kendrick Lamar Duckworth was born on June 17, 1987 in Compton, California and raised there, according to Biography.com. The cover of his major label debut album -- 2012's "good kid, m.A.A.d city" -- shows Lamar as a young child.     
 * **Media:** https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg
 * **Media Credit:** 	album cover/Wikimedia Commons
 * **Media Caption, Media Thumbnail:** *Leave these blank*
 * **Type:** *Leave this blank*
 * **Group, Background:** *Leave these blank*
 
+#### Part 5: Creating second timeline entry for Kendrick's birth.
 
-BIRTH SLIDE -- good kid maad city pic
-That photo says so much about my life, and about how I was raised in Compton, and the things I've seen, just through them innocent eyes. You don't see nobody else's eyes, but you see my eyes are innocent, and tryna figure out what is goin' on."  
+1. Look for row number 7, which should be empty. This is where we'll create a slide for the release of Kendrick Lamar's first full-length mixtape. Fill out the cells that correspond to the columns in row 7 as follows:  
+
+* **Year:** 2004
+* **Month:** *Leave this blank*
+* **Day:** *Leave this blank*
+* **Time:** *Leave this blank*
+* **End Year:** 2004
+* **End Month:** *Leave this blank*
+* **End Day:**	*Leave this blank*
+* **End Time:** *Leave this blank*
+*	**Display Date:** 2004
+* **Headline:** Releases first full-length mixtape
+* **Text:** Performing under the name K-Dot, Kendrick Lamar released his first full-length mixtape "Youngest Head Nigga in Charge (Hub City Threat: Minor of the Year)" in 2004.
+* **Media:** https://www.youtube.com/watch?v=_PveJXa5ReI
+**Media Credit:** 	album /YouTube
+* **Media Caption, Media Thumbnail:** *Leave these blank*
+* **Type:** *Leave this blank*
+* **Group, Background:** *Leave these blank*
+
+#### Part 6: Delete un-needed example rows.
+
+Now that we have our new entries, delete the un-needed example rows.  
+
+1. Click the row number box for row 2 on the far left side of the screen to highlight the entire row.
+2. Hold down control and right-clicking on the mouse while hovering over the row to bring up the drop-down menu.
+3. Select "delete row" from the drop-down menu.
+4. Repeat for the next two rows.  
+
+#### Part 7: Look at our timeline so-far.
+
+Let's see what our timeline looks like so far.
+
+1.  From the menu at the top of our Google Sheet, select "File".
+2.  From the drop-down menu, select "Publish to the web".
+3.  Click the blue "Publish" button.
+
+4.  Copy the Google Sheets URL.
+5.  Go back to the [Timeline.knightlab.com](https://timeline.knightlab.com/) page.
+6.  Scroll down to Step 3, "Generate your timeline"
+7.  Paste in your Google Sheet URL in the box.
+8.  Scroll down to step 4, "Share your timeline"
+9.  Copy the first link in the "Share Link" box.
+10. Open a new browser window and paste in your link.
+11. There's your timeline!
+
+#### Part 8: Think of more entries to add.
+
+Every time you add a new row to your timeline's Google Sheet, it will create a new entry in the timeline.  
+
+With the group next to you, take a moment to brainstorm ideas for new entries you can add. Some natural ideas:
+
+* A new album release
+* Winning a big award
+* A significant tour
+
+What else can you think of?
+
+#### Part 9: On your own, add three new entries to your timeline.
+
+Each entry needs:
+* a start date and an end date.
+* a headline.
+
+Optional:
+* a link to an image, a tweet, a YouTube or Vimeo video or other form of media.  
+
+1. Add the information required to the appropriate row and column in the spreadsheet.
+2. Go to your timeline and refresh the page.  The new slide should be there.  
